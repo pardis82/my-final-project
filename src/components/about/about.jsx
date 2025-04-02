@@ -1,6 +1,10 @@
 import React from 'react'
 import './about.css'
+<<<<<<< HEAD
 import ME from '../../assets/portraitbright.jpg'
+=======
+import ME from '../../assets/me-about.jpg'
+>>>>>>> c431386c96ee1a11643d6c6d47bb5bd52930b78b
 import { LiaAwardSolid } from "react-icons/lia";
 import { FaUsersGear } from "react-icons/fa6";
 import { FaProjectDiagram } from "react-icons/fa";
